@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YuvtajvirSingh a 14 year old trying ot learn code 
+- 👋 Hi, I’m @YuvtajvirSingh a 14 year old trying to learn code 
 - 👀 I’m interested in ... software enginnering
-- 🌱 I’m currently learning ... python, javacript, html, css
+- 🌱 I’m currently learning ... Java, javacript, html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... e-mail: yuvtajvir5579@gmail.com
 
