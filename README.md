@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuvtajvirSingh a 16-year-old trying to learn to code 
+- 👋 Hi, I’m @YuvtajvirSingh a 17-year-old trying to learn to code 
 - 👀 I’m interested in ... Frontend, Backend, Full stack Development, Java/Andriod Development, etc.
 - 🌱 I’m currently learning ... Java, Python, C++, HTML, CSS, and JS (React.js)
 - 📫 How to reach me ... e-mail: yuvtajvir5579@gmail.com, yuvtajvir552007@outlook.com
